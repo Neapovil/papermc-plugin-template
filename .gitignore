@@ -45,6 +45,7 @@ gradle-app.setting
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-run/
+run/*
 bin/
 .settings/
+!run/eula.txt
